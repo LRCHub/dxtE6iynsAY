@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "空と君のあいだに",
+  "base_artist": "中島みゆき",
+  "createdAt": "2025-12-01T02:29:08.446873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/01_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/02_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/03_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中岛みゆき",
+      "has_synced": true,
+      "path": "select/04_空と君のあいだに_中岛みゆき.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/05_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "空と君のあいだに (シングル・バージョン)",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/06_空と君のあいだに_(シングル・バージョン)_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/07_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "miyuki nakajima (中島みゆき)",
+      "has_synced": false,
+      "path": "select/08_空と君のあいだに_miyuki_nakajima_(中島みゆき).txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "ayaka",
+      "has_synced": true,
+      "path": "select/09_空と君のあいだに_ayaka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/10_空と君のあいだに_絢香.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "ayaka",
+      "has_synced": true,
+      "path": "select/11_空と君のあいだに_ayaka.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/12_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "空と君のあいだに ［シングル.バージョン］",
+      "artist": "中島美雪",
+      "has_synced": false,
+      "path": "select/13_空と君のあいだに_[シングル.バージョン]_中島美雪.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "空と君のあいだに(シングル・ヴァージョン)",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/14_空と君のあいだに(シングル・ヴァージョン)_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "空と君のあいだに(シングル・ヴァージョン)",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/15_空と君のあいだに(シングル・ヴァージョン)_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/16_空と君のあいだに_絢香.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/17_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中岛美雪",
+      "has_synced": false,
+      "path": "select/18_空と君のあいだに_中岛美雪.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/19_空と君のあいだに_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/20_空と君のあいだに_中島みゆき.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "空と君のあいだに",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/pl_空と君のあいだに_中島みゆき.txt"
+    }
+  ]
+}
